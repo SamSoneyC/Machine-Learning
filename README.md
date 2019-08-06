@@ -1,2 +1,2 @@
-# ML-LR-VisionCog
-Machine Learning Linear Regression
+# ML-VisionCog
+Machine Learning Course/Internship by VisionCog
